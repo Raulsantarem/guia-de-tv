@@ -1,0 +1,92 @@
+#EXTM3U
+###############################################################################################
+################################# CANAIS TELECINE #############################################
+###############################################################################################
+
+#EXTINF: <channel update="i" site="netcombo.com.br" site_id="474" xmltv_id="TELECINE ACTION SD">TELECINE ACTION SD</channel> -1 tvg-logo="http://bit.ly/38gJqV6" group-title="CANAIS TELECINE",TELECINE ACTION SD
+http://streaming.iptv.black/connections/57591c10-f281-11e9-b8a5-237132c9fdfe/channels/334/play-external/623
+#EXTINF: -1 tvg-logo="http://bit.ly/38gJqV6" group-title="CANAIS TELECINE",TELECINE ACTION SD2
+http://streaming.iptv.black/connections/57591c10-f281-11e9-b8a5-237132c9fdfe/channels/334/play-external/630
+#EXTINF: -1 tvg-logo="http://bit.ly/38gJqV6" group-title="CANAIS TELECINE",TELECINE ACTION SD3
+http://streaming.iptv.black/connections/57591c10-f281-11e9-b8a5-237132c9fdfe/channels/334/play-external/631
+#EXTINF: -1 tvg-logo="http://bit.ly/38gJqV6" group-title="CANAIS TELECINE",TELECINE ACTION HD
+http://streaming.iptv.black/connections/57591c10-f281-11e9-b8a5-237132c9fdfe/channels/336/play-external/632
+#EXTINF: -1 tvg-logo="http://bit.ly/38gJqV6" group-title="CANAIS TELECINE",TELECINE ACTION HD2
+http://streaming.iptv.black/connections/57591c10-f281-11e9-b8a5-237132c9fdfe/channels/336/play-external/790
+#EXTINF: -1 tvg-logo="http://bit.ly/38gJqV6" group-title="CANAIS TELECINE",TELECINE ACTION HD3
+http://streaming.iptv.black/connections/57591c10-f281-11e9-b8a5-237132c9fdfe/channels/336/play-external/791
+#EXTINF: -1 tvg-logo="http://bit.ly/38gJqV6" group-title="CANAIS TELECINE",TELECINE ACTION FHD
+http://streaming.iptv.black/connections/57591c10-f281-11e9-b8a5-237132c9fdfe/channels/335/play-external/624
+
+#EXTINF: -1 tvg-logo="http://bit.ly/33Z2xzp" group-title="CANAIS TELECINE",TELECINE CULT SD
+http://streaming.iptv.black/connections/57591c10-f281-11e9-b8a5-237132c9fdfe/channels/337/play-external/633
+#EXTINF: -1 tvg-logo="http://bit.ly/33Z2xzp" group-title="CANAIS TELECINE",TELECINE CULT SD2
+http://streaming.iptv.black/connections/57591c10-f281-11e9-b8a5-237132c9fdfe/channels/337/play-external/792
+#EXTINF: -1 tvg-logo="http://bit.ly/33Z2xzp" group-title="CANAIS TELECINE",TELECINE CULT SD3
+http://streaming.iptv.black/connections/57591c10-f281-11e9-b8a5-237132c9fdfe/channels/337/play-external/793
+#EXTINF: -1 tvg-logo="http://bit.ly/33Z2xzp" group-title="CANAIS TELECINE",TELECINE CULT HD
+http://streaming.iptv.black/connections/57591c10-f281-11e9-b8a5-237132c9fdfe/channels/338/play-external/634
+#EXTINF: -1 tvg-logo="http://bit.ly/33Z2xzp" group-title="CANAIS TELECINE",TELECINE CULT HD2
+http://streaming.iptv.black/connections/57591c10-f281-11e9-b8a5-237132c9fdfe/channels/338/play-external/794
+#EXTINF: -1 tvg-logo="http://bit.ly/33Z2xzp" group-title="CANAIS TELECINE",TELECINE CULT HD3
+http://streaming.iptv.black/connections/57591c10-f281-11e9-b8a5-237132c9fdfe/channels/338/play-external/795
+
+#EXTINF: -1 tvg-logo="http://bit.ly/2Rxp4Ro" group-title="CANAIS TELECINE",TELECINE FUN SD
+http://streaming.iptv.black/connections/57591c10-f281-11e9-b8a5-237132c9fdfe/channels/339/play-external/635
+#EXTINF: -1 tvg-logo="http://bit.ly/2Rxp4Ro" group-title="CANAIS TELECINE",TELECINE FUN SD2
+http://streaming.iptv.black/connections/57591c10-f281-11e9-b8a5-237132c9fdfe/channels/339/play-external/796
+#EXTINF: -1 tvg-logo="http://bit.ly/2Rxp4Ro" group-title="CANAIS TELECINE",TELECINE FUN SD3
+http://streaming.iptv.black/connections/57591c10-f281-11e9-b8a5-237132c9fdfe/channels/339/play-external/797
+#EXTINF: -1 tvg-logo="http://bit.ly/2Rxp4Ro" group-title="CANAIS TELECINE",TELECINE FUN HD
+http://streaming.iptv.black/connections/57591c10-f281-11e9-b8a5-237132c9fdfe/channels/341/play-external/637
+#EXTINF: -1 tvg-logo="http://bit.ly/2Rxp4Ro" group-title="CANAIS TELECINE",TELECINE FUN HD2
+http://streaming.iptv.black/connections/57591c10-f281-11e9-b8a5-237132c9fdfe/channels/341/play-external/638
+#EXTINF: -1 tvg-logo="http://bit.ly/2Rxp4Ro" group-title="CANAIS TELECINE",TELECINE FUN HD3
+http://streaming.iptv.black/connections/57591c10-f281-11e9-b8a5-237132c9fdfe/channels/341/play-external/798
+#EXTINF: -1 tvg-logo="http://bit.ly/2Rxp4Ro" group-title="CANAIS TELECINE",TELECINE FUN FHD
+http://streaming.iptv.black/connections/57591c10-f281-11e9-b8a5-237132c9fdfe/channels/340/play-external/636
+
+#EXTINF: -1 tvg-logo="http://bit.ly/2E1Zs73" group-title="CANAIS TELECINE",TELECINE PIPOCA SD
+http://streaming.iptv.black/connections/57591c10-f281-11e9-b8a5-237132c9fdfe/channels/342/play-external/639
+#EXTINF: -1 tvg-logo="http://bit.ly/2E1Zs73" group-title="CANAIS TELECINE",TELECINE PIPOCA SD2
+http://streaming.iptv.black/connections/57591c10-f281-11e9-b8a5-237132c9fdfe/channels/342/play-external/799
+#EXTINF: -1 tvg-logo="http://bit.ly/2E1Zs73" group-title="CANAIS TELECINE",TELECINE PIPOCA SD3
+http://streaming.iptv.black/connections/57591c10-f281-11e9-b8a5-237132c9fdfe/channels/342/play-external/800
+#EXTINF: -1 tvg-logo="http://bit.ly/2E1Zs73" group-title="CANAIS TELECINE",TELECINE PIPOCA HD
+http://streaming.iptv.black/connections/57591c10-f281-11e9-b8a5-237132c9fdfe/channels/344/play-external/641
+#EXTINF: -1 tvg-logo="http://bit.ly/2E1Zs73" group-title="CANAIS TELECINE",TELECINE PIPOCA HD2
+http://streaming.iptv.black/connections/57591c10-f281-11e9-b8a5-237132c9fdfe/channels/344/play-external/801
+#EXTINF: -1 tvg-logo="http://bit.ly/2E1Zs73" group-title="CANAIS TELECINE",TELECINE PIPOCA HD3
+http://streaming.iptv.black/connections/57591c10-f281-11e9-b8a5-237132c9fdfe/channels/344/play-external/802
+#EXTINF: -1 tvg-logo="http://bit.ly/2E1Zs73" group-title="CANAIS TELECINE",TELECINE PIPOCA FHD
+http://streaming.iptv.black/connections/57591c10-f281-11e9-b8a5-237132c9fdfe/channels/343/play-external/640
+
+#EXTINF: -1 tvg-logo="http://bit.ly/2DY88M2" group-title="CANAIS TELECINE",TELECINE PREMIUN SD
+http://streaming.iptv.black/connections/57591c10-f281-11e9-b8a5-237132c9fdfe/channels/345/play-external/642
+#EXTINF: -1 tvg-logo="http://bit.ly/2DY88M2" group-title="CANAIS TELECINE",TELECINE PREMIUN SD2
+http://streaming.iptv.black/connections/57591c10-f281-11e9-b8a5-237132c9fdfe/channels/345/play-external/803
+#EXTINF: -1 tvg-logo="http://bit.ly/2DY88M2" group-title="CANAIS TELECINE",TELECINE PREMIUN SD3
+http://streaming.iptv.black/connections/57591c10-f281-11e9-b8a5-237132c9fdfe/channels/345/play-external/804
+#EXTINF: -1 tvg-logo="http://bit.ly/2DY88M2" group-title="CANAIS TELECINE",TELECINE PREMIUN HD
+http://streaming.iptv.black/connections/57591c10-f281-11e9-b8a5-237132c9fdfe/channels/347/play-external/644
+#EXTINF: -1 tvg-logo="http://bit.ly/2DY88M2" group-title="CANAIS TELECINE",TELECINE PREMIUN HD2
+http://streaming.iptv.black/connections/57591c10-f281-11e9-b8a5-237132c9fdfe/channels/347/play-external/805
+#EXTINF: -1 tvg-logo="http://bit.ly/2DY88M2" group-title="CANAIS TELECINE",TELECINE PREMIUN HD3
+http://streaming.iptv.black/connections/57591c10-f281-11e9-b8a5-237132c9fdfe/channels/347/play-external/806
+#EXTINF: -1 tvg-logo="http://bit.ly/2DY88M2" group-title="CANAIS TELECINE",TELECINE PREMIUN FHD
+http://streaming.iptv.black/connections/57591c10-f281-11e9-b8a5-237132c9fdfe/channels/346/play-external/643
+
+#EXTINF: -1 tvg-logo="http://bit.ly/33WDWLO" group-title="CANAIS TELECINE",TELECINE TOUCH SD
+http://streaming.iptv.black/connections/57591c10-f281-11e9-b8a5-237132c9fdfe/channels/348/play-external/645
+#EXTINF: -1 tvg-logo="http://bit.ly/33WDWLO" group-title="CANAIS TELECINE",TELECINE TOUCH SD2
+http://streaming.iptv.black/connections/57591c10-f281-11e9-b8a5-237132c9fdfe/channels/348/play-external/807
+#EXTINF: -1 tvg-logo="http://bit.ly/33WDWLO" group-title="CANAIS TELECINE",TELECINE TOUCH SD3
+http://streaming.iptv.black/connections/57591c10-f281-11e9-b8a5-237132c9fdfe/channels/348/play-external/808
+#EXTINF: -1 tvg-logo="http://bit.ly/33WDWLO" group-title="CANAIS TELECINE",TELECINE TOUCH HD
+http://streaming.iptv.black/connections/57591c10-f281-11e9-b8a5-237132c9fdfe/channels/350/play-external/647
+#EXTINF: -1 tvg-logo="http://bit.ly/33WDWLO" group-title="CANAIS TELECINE",TELECINE TOUCH HD2
+http://streaming.iptv.black/connections/57591c10-f281-11e9-b8a5-237132c9fdfe/channels/350/play-external/809
+#EXTINF: -1 tvg-logo="http://bit.ly/33WDWLO" group-title="CANAIS TELECINE",TELECINE TOUCH HD3
+http://streaming.iptv.black/connections/57591c10-f281-11e9-b8a5-237132c9fdfe/channels/350/play-external/810
+#EXTINF: -1 tvg-logo="http://bit.ly/33WDWLO" group-title="CANAIS TELECINE",TELECINE TOUCH FHD
+http://streaming.iptv.black/connections/57591c10-f281-11e9-b8a5-237132c9fdfe/channels/349/play-external/646
